@@ -1,0 +1,327 @@
+{
+  "pays": "Mexique",
+  "drapeau": "🇲🇽",
+  "symbole": "🌵",
+  "titre": "Évasion Relaxante au Cœur d'Oaxaca",
+  "budget_total": "Environ 2200-2300 €/personne",
+  "duree": "8 jours",
+  "date_debut": "2026-01-18",
+  "date_fin": "2026-01-26",
+  "temps_vol": "7h (depuis Seguin, États-Unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Oaxaca",
+      "legende": "Après votre voyage, installez-vous confortablement dans la vibrante Oaxaca. Cette première journée est dédiée à une immersion douce dans l'ambiance coloniale de la ville, parfaite pour se détendre et s'acclimater. Laissez-vous porter par les premières impressions de cette destination riche en culture.",
+      "lieu": "Oaxaca",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international d'Oaxaca (Xoxocotlán) et transfert vers votre hôtel.",
+        "<strong>🛏️</strong>: Installation et repos à l'hôtel pour recharger les batteries après le vol.",
+        "<strong>🚶‍♂️</strong>: Première balade relaxante dans le centre historique, autour du Zócalo, pour s'imprégner de l'atmosphère."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aeropuerto Internacional de Oaxaca, Oaxaca",
+          "categorie": "Aéroport",
+          "coords": { "lat": 17.0076, "lng": -96.7263 }
+        },
+        {
+          "nom_recherche": "Zócalo de Oaxaca, Oaxaca",
+          "categorie": "Place publique",
+          "coords": { "lat": 17.0607, "lng": -96.7267 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre historique d'Oaxaca est très agréable à explorer à pied. Prévoyez des chaussures confortables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Trésors coloniaux et saveurs locales",
+      "legende": "Plongez au cœur de l'effervescence oaxaquénienne en explorant ses marchés colorés et ses trésors architecturaux. Une journée riche en découvertes sensorielles, entre histoire, artisanat et gastronomie locale. Laissez-vous guider par les parfums et les couleurs de la ville.",
+      "lieu": "Oaxaca",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du majestueux Templo de Santo Domingo de Guzmán, un chef-d'œuvre baroque.",
+        "<strong>🛍️</strong>: Exploration du Mercado Benito Juárez, pour découvrir l'artisanat et les produits locaux.",
+        "<strong>🎨</strong>: Flânerie dans le quartier bohème de Jalatlaco, avec ses ruelles pavées et ses fresques murales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Templo de Santo Domingo de Guzmán, Oaxaca",
+          "categorie": "Église",
+          "coords": { "lat": 17.0656, "lng": -96.7239 }
+        },
+        {
+          "nom_recherche": "Mercado Benito Juárez, Oaxaca",
+          "categorie": "Marché",
+          "coords": { "lat": 17.0601, "lng": -96.7289 }
+        },
+        {
+          "nom_recherche": "Barrio de Jalatlaco, Oaxaca",
+          "categorie": "Quartier",
+          "coords": { "lat": 17.0673, "lng": -96.7175 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Gourmandise",
+          "texte": "Au marché, goûtez aux \"nieves\" (sorbets) aux saveurs exotiques comme le \"tuna\" (figue de barbarie) ou le \"leche quemada\" (lait brûlé)."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🗿",
+      "titre": "Vestiges zapotèques et arbre millénaire",
+      "legende": "Remontez le temps avec la majesté de Monte Albán, une ancienne cité zapotèque offrant des vues panoramiques, puis émerveillez-vous devant la grandeur millénaire de l'Arbre de Tule. Une journée entre histoire, nature et dégustation de mezcal, emblème d'Oaxaca.",
+      "lieu": "Oaxaca et environs",
+      "activites": [
+        "<strong>🗿</strong>: Découverte du site archéologique de Monte Albán, classé UNESCO, pour ses pyramides et son observatoire.",
+        "<strong>🌳</strong>: Admiration de l'Arbre de Tule, un cyprès de Montezuma vieux de plus de 2000 ans, au tronc impressionnant.",
+        "<strong>🍷</strong>: Dégustation de mezcal artisanal dans une \"palenque\" (distillerie) locale, pour comprendre son processus de fabrication."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Zona Arqueológica de Monte Albán, Santa Cruz Xoxocotlán",
+          "categorie": "Site archéologique",
+          "coords": { "lat": 17.0434, "lng": -96.7675 }
+        },
+        {
+          "nom_recherche": "El Árbol del Tule, Santa María del Tule",
+          "categorie": "Arbre remarquable",
+          "coords": { "lat": 17.0478, "lng": -96.5058 }
+        },
+        {
+          "nom_recherche": "Mezcal Los Danzantes, Santiago Matatlán",
+          "categorie": "Distillerie de mezcal",
+          "coords": { "lat": 16.9452, "lng": -96.3813 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil",
+          "texte": "À Monte Albán, le soleil peut être intense. Prévoyez chapeau, crème solaire et beaucoup d'eau."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "💧",
+      "titre": "Cascades pétrifiées et artisanat textile",
+      "legende": "Laissez-vous captiver par les cascades pétrifiées de Hierve el Agua, un spectacle naturel unique où vous pourrez vous baigner, avant de découvrir l'art ancestral du tissage à Teotitlán del Valle. Une journée entre détente naturelle et immersion culturelle authentique.",
+      "lieu": "Hierve el Agua et Teotitlán del Valle",
+      "activites": [
+        "<strong>💧</strong>: Baignade et détente dans les piscines naturelles de Hierve el Agua, avec vue imprenable sur les montagnes.",
+        "<strong>🧵</strong>: Visite d'un atelier de tissage de tapis en laine à Teotitlán del Valle, pour admirer le travail des artisans zapotèques.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant local à Teotitlán, pour goûter à la cuisine traditionnelle du village."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hierve el Agua, San Lorenzo Albarradas",
+          "categorie": "Site naturel",
+          "coords": { "lat": 16.8633, "lng": -96.2758 }
+        },
+        {
+          "nom_recherche": "Teotitlán del Valle, Oaxaca",
+          "categorie": "Village artisanal",
+          "coords": { "lat": 17.0406, "lng": -96.5292 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Hierve el Agua offre des panoramas spectaculaires, parfaits pour des photos mémorables. N'oubliez pas votre maillot de bain!"
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🧑‍🍳",
+      "titre": "Gastronomie et jardin ethnobotanique",
+      "legende": "Immergez-vous dans la richesse de la gastronomie oaxaquénienne avec un cours de cuisine interactif, puis trouvez la sérénité au cœur du jardin ethnobotanique, un havre de paix. Une journée pour éveiller vos sens et approfondir votre connaissance de la culture locale.",
+      "lieu": "Oaxaca",
+      "activites": [
+        "<strong>🧑‍🍳</strong>: Cours de cuisine oaxaquénienne pour apprendre à préparer des plats emblématiques comme le mole ou les tlayudas.",
+        "<strong>🌿</strong>: Promenade guidée au Jardin Ethnobotanique d'Oaxaca, situé à côté du Templo de Santo Domingo, pour découvrir la flore locale.",
+        "<strong>🎶</strong>: Soirée libre pour profiter de la musique traditionnelle dans un des bars du centre-ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Etnobotánico de Oaxaca, Oaxaca",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 17.0653, "lng": -96.7229 }
+        },
+        {
+          "nom_recherche": "Casa Crespo, Oaxaca",
+          "categorie": "École de cuisine",
+          "coords": { "lat": 17.0632, "lng": -96.7245 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce culinaire",
+          "texte": "N'hésitez pas à poser des questions sur les ingrédients et les techniques locales pendant le cours de cuisine, c'est une excellente façon d'apprendre!"
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🖼️",
+      "titre": "Art et nature à San Agustín Etla",
+      "legende": "Évadez-vous vers les paysages verdoyants de San Agustín Etla, un lieu d'art et de tranquillité, idéal pour une journée de contemplation et de créativité. Découvrez un centre artistique unique et profitez d'une balade apaisante dans la nature environnante, loin de l'agitation urbaine.",
+      "lieu": "San Agustín Etla",
+      "activites": [
+        "<strong>🖼️</strong>: Visite du Centro de las Artes de San Agustín (CaSa), une ancienne usine textile transformée en centre d'art.",
+        "<strong>🚶‍♀️</strong>: Balade douce le long de la rivière ou dans les collines environnantes de San Agustín Etla, pour profiter de la nature.",
+        "<strong>☕</strong>: Pause café ou déjeuner dans un petit restaurant du village, pour savourer la quiétude des lieux."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Centro de las Artes de San Agustín (CaSa), San Agustín Etla",
+          "categorie": "Centre d'art",
+          "coords": { "lat": 17.1802, "lng": -96.7909 }
+        },
+        {
+          "nom_recherche": "San Agustín Etla, Oaxaca",
+          "categorie": "Village",
+          "coords": { "lat": 17.1798, "lng": -96.7900 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Des \"colectivos\" (taxis partagés) ou bus locaux peuvent vous emmener à San Agustín Etla depuis Oaxaca, offrant une expérience authentique."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "💆‍♀️",
+      "titre": "Journée libre et détente",
+      "legende": "Profitez d'une journée libre pour vous détendre, revisiter vos lieux préférés ou explorer un quartier moins connu d'Oaxaca. C'est l'occasion parfaite pour un massage relaxant, une séance de shopping de dernière minute ou simplement savourer un café tranquille en observant la vie locale.",
+      "lieu": "Oaxaca",
+      "activites": [
+        "<strong>💆‍♀️</strong>: Massage relaxant ou séance de spa dans un des centres de bien-être de la ville.",
+        "<strong>🛍️</strong>: Achats de souvenirs et d'artisanat au Mercado de Artesanías ou dans les boutiques du centre.",
+        "<strong>🍹</strong>: Dégustation approfondie de mezcal dans un bar spécialisé, pour découvrir différentes variétés et saveurs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado de Artesanías, Oaxaca",
+          "categorie": "Marché artisanal",
+          "coords": { "lat": 17.0577, "lng": -96.7297 }
+        },
+        {
+          "nom_recherche": "Mezcalería In Situ, Oaxaca",
+          "categorie": "Bar à mezcal",
+          "coords": { "lat": 17.0609, "lng": -96.7259 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "📚",
+          "titre": "Lecture",
+          "texte": "Trouvez un café agréable et profitez de l'ambiance pour lire un livre ou écrire vos impressions de voyage."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "✈️",
+      "titre": "Départ d'Oaxaca",
+      "legende": "Un dernier petit-déjeuner oaxaquénien pour savourer les saveurs locales une dernière fois, avant de prendre la route de l'aéroport. Le cœur rempli de souvenirs colorés et d'expériences inoubliables, il est temps de dire \"adiós\" à cette magnifique région du Mexique.",
+      "lieu": "Oaxaca",
+      "activites": [
+        "<strong>🍳</strong>: Petit-déjeuner traditionnel dans un café local, pour un dernier festin de saveurs.",
+        "<strong>🎁</strong>: Achats de dernière minute si vous avez oublié quelque chose ou souhaitez ramener un petit extra.",
+        "<strong>✈️</strong>: Transfert à l'aéroport international d'Oaxaca (Xoxocotlán) pour votre vol de retour."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aeropuerto Internacional de Oaxaca, Oaxaca",
+          "categorie": "Aéroport",
+          "coords": { "lat": 17.0076, "lng": -96.7263 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport, surtout en cas de trafic."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 772 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100 €/pers (taxis, collectivos, excursions)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 400 €/pers (50€/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 600 €/pers (75€/nuit pour 7 nuits, hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 150 €/pers (entrées sites, cours de cuisine, dégustations)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Janvier à Avril", "symbole": "☀️" },
+    { "titre": "Octobre à Décembre", "symbole": "🍁" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures à Oaxaca sont agréables, oscillant entre 12°C le matin et 28°C l'après-midi. Le temps est sec et ensoleillé. Prévoyez des vêtements légers pour la journée et une petite veste pour les soirées plus fraîches.", "symbole": "☀️" },
+    { "titre": "La monnaie est le Peso Mexicain (MXN). Les cartes de crédit sont acceptées dans la plupart des hôtels et restaurants, mais il est conseillé d'avoir du liquide pour les marchés, petits commerces et transports locaux. Les distributeurs sont nombreux.", "symbole": "💳" },
+    { "titre": "Un permis de conduire international est recommandé si vous louez une voiture, bien que le permis français soit souvent accepté. La conduite se fait à droite. Pour les excursions, les taxis collectifs ou les tours organisés sont pratiques et économiques.", "symbole": "🚗" },
+    { "titre": "L'espagnol est la langue officielle. Quelques mots de base seront très appréciés. Le Wi-Fi est généralement disponible dans les hôtels et de nombreux cafés. Une carte SIM locale (Telcel, AT&T) ou une eSIM peut être utile pour la navigation.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le Zócalo d'Oaxaca a été le théâtre de nombreuses manifestations et rassemblements, reflétant l'esprit civique et parfois rebelle de ses habitants. C'est un lieu vibrant d'histoire et de vie sociale." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La légende locale raconte que les \"cascades pétrifiées\" de Hierve el Agua sont en fait les cheveux d'un géant endormi, figés par le temps et transformés en pierre par les minéraux. Une explication bien plus poétique que la géologie!" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Mole Negro", 
+      "description": "Le plus célèbre des sept moles d'Oaxaca, une sauce complexe et riche à base de dizaines d'ingrédients, dont plusieurs types de piments, épices, noix, graines et chocolat. Servi traditionnellement avec du poulet ou de la dinde." 
+    },
+    { 
+      "symbole": "🌮", 
+      "titre": "Tlayudas", 
+      "description": "Souvent appelée la \"pizza oaxaquénienne\", c'est une grande tortilla de maïs croustillante, garnie de \"asiento\" (graisse de porc), de haricots noirs, de \"quesillo\" (fromage d'Oaxaca), de chou, et souvent de viande grillée comme la \"cecina\" ou le \"tasajo\"." 
+    },
+    { 
+      "symbole": "🦗", 
+      "titre": "Chapulines", 
+      "description": "Des sauterelles grillées avec de l'ail, du jus de citron et du piment. Une collation croquante et protéinée, très populaire dans les marchés et souvent servie avec du guacamole ou dans les tlayudas. Osez goûter!" 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/SAT-OAX/2026-01-18/2026-01-26", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Oaxaca", "url": "https://www.oaxaca.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Oaxaca", "url": "https://www.accuweather.com/fr/mx/oaxaca/241038/weather-forecast/241038", "symbole": "🌤️" },
+    { "legende": "Hébergements", "titre": "Booking.com Oaxaca", "url": "https://www.booking.com/city/mx/oaxaca.fr.html", "symbole": "🏨" }
+  ]
+}
